@@ -1,0 +1,26 @@
+{
+  "name": "server-file-statik",
+  "version": "1.0.0",
+  "description": "testing using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robihidayat/server-file-statik.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "robihidayat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robihidayat/server-file-statik/issues"
+  },
+  "homepage": "https://github.com/robihidayat/server-file-statik#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "morgan": "^1.8.2"
+  }
+}
